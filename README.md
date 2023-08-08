@@ -1,4 +1,4 @@
-# Machine Learning - Classificação por trás dos panos
+# Modelos de CLassificação em Machine Learning
 
 Neste notebook estou deixando minhas anotações de estudos sobre os seguintes modelos de Classificação em Machine Learning: 
 - K-Nearest Neighbors (KNN);
